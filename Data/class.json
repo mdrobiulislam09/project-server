@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "isActive": false,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+        "age": 28,
+        "eyeColor": "brown",
+        "course": "HTML",
+        "about": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!"
+    },
+    {
+        "id": 2,
+        "isActive": false,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+        "age": 23,
+        "eyeColor": "blue",
+        "course": "CSS",
+        "about": "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced."
+    },
+    {
+        "id": 3,
+        "isActive": true,
+        "picture": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
+        "age": 21,
+        "eyeColor": "brown",
+        "course": "JAVASCRIPT",
+        "about": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced."
+    },
+    {
+        "id": 4,
+        "isActive": true,
+        "picture": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png",
+        "age": 21,
+        "eyeColor": "brown",
+        "course": "Node Js",
+        "about": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following 'hello world' example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep."
+    },
+    {
+        "id": 5,
+        "isActive": true,
+        "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--PQK3-rRY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7nbo0ul3bnxkzdc97pi.png",
+        "age": 22,
+        "eyeColor": "Expess Js",
+        "course": "Expess Js",
+        "about": "Embedded below is essentially the simplest Express app you can create. It is a single file app — not what you'd get if you use the Express generator, which creates the scaffolding for a full app with numerous JavaScript files, Jade templates, and sub-directories for various purposes."
+    },
+    {
+        "id": 6,
+        "isActive": true,
+        "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--xhz37tRO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0lj87mz6whntv2zbxdm.png",
+        "age": 32,
+        "eyeColor": "blue",
+        "course": "React Router",
+        "about": "React Router enables 'client side routing'.In traditional websites, the browser requests a document from a web server, downloads and evaluates CSS and JavaScript assets, and renders the HTML sent from the server. When the user clicks a link, it starts the process all over again for a new page."
+    }
+]
